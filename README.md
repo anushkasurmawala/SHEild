@@ -38,7 +38,7 @@ The **SHEild** app is designed to be a real-time guardian — smart, subtle, and
 
 ## Setup and Installation
 
-### 1. Clone the repository
+1. Clone the repository
 ```bash
 git clone https://github.com/anushkasurmawala/SHEild.git
 cd SHEild
