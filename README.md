@@ -44,10 +44,10 @@ git clone https://github.com/anushkasurmawala/SHEild.git
 cd SHEild
 
 
-2. Install dependencies
+### 2. Install dependencies
 npm install
 
-3. Environment Variables
+### 3. Environment Variables
 
 Create a .env file in the root of the project and add the following keys:
 NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
@@ -55,7 +55,7 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
 TWILIO_ACCOUNT_SID=your_twilio_account_sid
 TWILIO_AUTH_TOKEN=your_twilio_auth_token
 
-4. Run the App
+### 4. Run the App
 npm run dev
 
 The app will be running on http://localhost:3000.
